@@ -1,0 +1,330 @@
+<--- Start process --->
+19/11/2016 11:12:03
+ Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/0ryDVt
+
+19/11/2016 11:12:18
+ Do event mouse click on Windows 7
+ Position ( x: 547, y: 395 )
+
+19/11/2016 11:12:49
+ End process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/0ryDVt
+
+<--- Start process --->
+19/11/2016 02:28:26
+ Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/f9T1Q
+
+19/11/2016 02:28:41
+ Do event mouse click on Windows 7
+ Position ( x: 547, y: 395 )
+
+19/11/2016 02:29:11
+ End process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/f9T1Q
+<--- end process --->
+
+<--- Start process --->
+19/11/2016 02:58:26
+ Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/Vcfdem
+
+19/11/2016 02:58:41
+ Do event mouse click on Windows 7
+ Position ( x: 547, y: 395 )
+
+19/11/2016 02:59:11
+ End process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/Vcfdem
+<--- end process --->
+
+<--- Start process --->
+19/11/2016 03:28:26
+ Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/hLZCgr
+
+19/11/2016 03:28:41
+ Do event mouse click on Windows 7
+ Position ( x: 547, y: 395 )
+
+19/11/2016 03:29:11
+ End process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/hLZCgr
+<--- end process --->
+
+<--- Start process --->
+19/11/2016 03:58:26
+ Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/8tEDKT
+
+19/11/2016 03:58:41
+ Do event mouse click on Windows 7
+ Position ( x: 547, y: 395 )
+
+19/11/2016 03:59:11
+ End process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/8tEDKT
+<--- end process --->
+
+<--- Start process --->
+19/11/2016 04:28:26
+ Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/43RDaD
+
+19/11/2016 04:28:41
+ Do event mouse click on Windows 7
+ Position ( x: 547, y: 395 )
+
+19/11/2016 04:29:11
+ End process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/43RDaD
+<--- end process --->
+
+<--- Start process --->
+19/11/2016 04:58:26
+ Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/QdiGdB
+
+19/11/2016 04:58:41
+ Do event mouse click on Windows 7
+ Position ( x: 547, y: 395 )
+
+19/11/2016 04:59:11
+ End process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/QdiGdB
+<--- end process --->
+
+<--- Start process --->
+19/11/2016 05:28:26
+ Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/43RDaD
+
+19/11/2016 05:28:41
+ Do event mouse click on Windows 7
+ Position ( x: 547, y: 395 )
+
+19/11/2016 05:29:11
+ End process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/43RDaD
+<--- end process --->
+
+<--- Start process --->
+19/11/2016 05:58:26
+ Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/8xWee
+
+19/11/2016 05:58:41
+ Do event mouse click on Windows 7
+ Position ( x: 547, y: 395 )
+
+19/11/2016 05:59:11
+ End process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/8xWee
+<--- end process --->
+
+<--- Start process --->
+19/11/2016 06:28:26
+ Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/l9zkKD
+
+19/11/2016 06:28:41
+ Do event mouse click on Windows 7
+ Position ( x: 547, y: 395 )
+
+19/11/2016 06:29:11
+ End process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/l9zkKD
+<--- end process --->
+
+<--- Start process --->
+19/11/2016 06:58:26
+ Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/FHfmKc
+
+19/11/2016 06:58:41
+ Do event mouse click on Windows 7
+ Position ( x: 547, y: 395 )
+
+19/11/2016 06:59:11
+ End process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/FHfmKc
+<--- end process --->
+
+<--- Start process --->
+19/11/2016 07:28:26
+ Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/hLZCgr
+
+19/11/2016 07:28:41
+ Do event mouse click on Windows 7
+ Position ( x: 547, y: 395 )
+
+19/11/2016 07:29:11
+ End process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/hLZCgr
+<--- end process --->
+
+<--- Start process --->
+19/11/2016 07:58:26
+ Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/QdiGdB
+
+19/11/2016 07:58:41
+ Do event mouse click on Windows 7
+ Position ( x: 547, y: 395 )
+
+19/11/2016 07:59:11
+ End process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/QdiGdB
+<--- end process --->
+
+<--- Start process --->
+19/11/2016 08:28:26
+ Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/rI73J
+
+19/11/2016 08:28:41
+ Do event mouse click on Windows 7
+ Position ( x: 547, y: 395 )
+
+19/11/2016 08:29:11
+ End process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/rI73J
+<--- end process --->
+
+<--- Start process --->
+19/11/2016 08:58:26
+ Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/7q8tD
+
+19/11/2016 08:58:41
+ Do event mouse click on Windows 7
+ Position ( x: 547, y: 395 )
+
+19/11/2016 08:59:11
+ End process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/7q8tD
+<--- end process --->
+
+<--- Start process --->
+21/11/2016 12:12:30
+ Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/8xWee
+
+21/11/2016 12:12:47
+ Do event mouse click on Windows 7
+ Position ( x: 547, y: 395 )
+
+21/11/2016 12:13:23
+ End process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/8xWee
+<--- end process --->
+
+<--- Start process --->
+21/11/2016 12:42:31
+ Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/8tEDKT
+
+21/11/2016 12:42:47
+ Do event mouse click on Windows 7
+ Position ( x: 547, y: 395 )
+
+21/11/2016 12:43:17
+ End process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/8tEDKT
+<--- end process --->
+
+<--- Start process --->
+21/11/2016 01:12:31
+ Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/Og92OM
+
+21/11/2016 01:12:47
+ Do event mouse click on Windows 7
+ Position ( x: 547, y: 395 )
+
+21/11/2016 01:13:17
+ End process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/Og92OM
+<--- end process --->
+
+<--- Start process --->
+21/11/2016 01:42:31
+ Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/7xbDb
+
+21/11/2016 01:42:47
+ Do event mouse click on Windows 7
+ Position ( x: 547, y: 395 )
+
+21/11/2016 01:43:17
+ End process: C:\Program Files\Mozilla Firefox\firefox.exe
+ Link: http://ouo.io/7xbDb
+<--- end process --->
+
+<--- Start process --->
+21/11/2016 02:14:20
+Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+Link: http://ouo.io/7HLkIF
+
+21/11/2016 02:14:50
+Do event mouse click on Windows 7
+Position ( x: 547, y: 395 )
+
+21/11/2016 02:15:20
+End process: C:\Program Files\Mozilla Firefox\firefox.exe
+Link: http://ouo.io/7HLkIF
+
+<--- Start process --->
+21/11/2016 02:44:20
+Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+Link: http://ouo.io/0ryDVt
+
+21/11/2016 02:44:50
+Do event mouse click on Windows 7
+Position ( x: 547, y: 395 )
+
+21/11/2016 02:45:20
+End process: C:\Program Files\Mozilla Firefox\firefox.exe
+Link: http://ouo.io/0ryDVt
+
+<--- Start process --->
+21/11/2016 03:14:20
+Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+Link: http://ouo.io/YIAciS
+
+21/11/2016 03:14:50
+Do event mouse click on Windows 7
+Position ( x: 547, y: 395 )
+
+21/11/2016 03:15:21
+End process: C:\Program Files\Mozilla Firefox\firefox.exe
+Link: http://ouo.io/YIAciS
+
+<--- Start process --->
+21/11/2016 03:44:20
+Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+Link: http://ouo.io/HZO3Hx
+
+21/11/2016 03:44:50
+Do event mouse click on Windows 7
+Position ( x: 547, y: 395 )
+
+21/11/2016 03:45:20
+End process: C:\Program Files\Mozilla Firefox\firefox.exe
+Link: http://ouo.io/HZO3Hx
+
+<--- Start process --->
+21/11/2016 04:14:20
+Start process: C:\Program Files\Mozilla Firefox\firefox.exe
+Link: http://ouo.io/Tqq8bW
+
+21/11/2016 04:14:50
+Do event mouse click on Windows 7
+Position ( x: 547, y: 395 )
+
+21/11/2016 04:15:20
+End process: C:\Program Files\Mozilla Firefox\firefox.exe
+Link: http://ouo.io/Tqq8bW
+
